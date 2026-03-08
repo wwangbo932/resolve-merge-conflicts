@@ -1,2 +1,2 @@
 # Resolve Merge Conflicts
-This line will be changed later.
+This line was changed in the conflict branch.
